@@ -1,0 +1,139 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+cg  "ui.stylesheet":"edge {size:1px;z-index:2;fill-color:gray;}edge .red{size:1px;z-index:2;fill-color:red;}edge .green{size:1px;z-index:2;fill-color:green;}node {size:2px;fill-color:black;text-size:16;text-mode:normal;text-background-mode:plain;z-index:3;text-alignment:under;}"
+an "1"
+cn "1"  "xyz":{0.000000,0.000000,0.000000}
+cn "1"  "ui.label":"1"
+an "2"
+cn "2"  "xyz":{2.000000,0.000000,0.000000}
+cn "2"  "ui.label":"2"
+an "3"
+cn "3"  "xyz":{1.000000,2.000000,0.000000}
+cn "3"  "ui.label":"3"
+an "4"
+cn "4"  "xyz":{3.000000,2.000000,0.000000}
+cn "4"  "ui.label":"4"
+an "5"
+cn "5"  "xyz":{5.000000,2.000000,0.000000}
+cn "5"  "ui.label":"5"
+an "6"
+cn "6"  "xyz":{6.000000,2.000000,0.000000}
+cn "6"  "ui.label":"6"
+an "7"
+cn "7"  "xyz":{3.000000,4.000000,0.000000}
+cn "7"  "ui.label":"7"
+an "8"
+cn "8"  "xyz":{6.000000,4.000000,0.000000}
+cn "8"  "ui.label":"8"
+an "9"
+cn "9"  "xyz":{5.000000,6.000000,0.000000}
+cn "9"  "ui.label":"9"
+ae "0" "2"  "1"
+ce "0"  "weight":2.000000
+ce "0"  "ui.hide":true
+ae "1" "3"  "1"
+ce "1"  "weight":2.236068
+ce "1"  "ui.hide":true
+ae "2" "3"  "2"
+ce "2"  "weight":2.236068
+ce "2"  "ui.hide":true
+ae "3" "4"  "1"
+ce "3"  "weight":3.605551
+ce "3"  "ui.hide":true
+ae "4" "4"  "2"
+ce "4"  "weight":2.236068
+ce "4"  "ui.hide":true
+ae "5" "4"  "3"
+ce "5"  "weight":2.000000
+ce "5"  "ui.hide":true
+ae "6" "5"  "1"
+ce "6"  "weight":5.385165
+ce "6"  "ui.hide":true
+ae "7" "5"  "2"
+ce "7"  "weight":3.605551
+ce "7"  "ui.hide":true
+ae "8" "5"  "3"
+ce "8"  "weight":4.000000
+ce "8"  "ui.hide":true
+ae "9" "5"  "4"
+ce "9"  "weight":2.000000
+ce "9"  "ui.hide":true
+ae "10" "6"  "1"
+ce "10"  "weight":6.324555
+ce "10"  "ui.hide":true
+ae "11" "6"  "2"
+ce "11"  "weight":4.472136
+ce "11"  "ui.hide":true
+ae "12" "6"  "3"
+ce "12"  "weight":5.000000
+ce "12"  "ui.hide":true
+ae "13" "6"  "4"
+ce "13"  "weight":3.000000
+ce "13"  "ui.hide":true
+ae "14" "6"  "5"
+ce "14"  "weight":1.000000
+ce "14"  "ui.hide":true
+ae "15" "7"  "1"
+ce "15"  "weight":5.000000
+ce "15"  "ui.hide":true
+ae "16" "7"  "2"
+ce "16"  "weight":4.123106
+ce "16"  "ui.hide":true
+ae "17" "7"  "3"
+ce "17"  "weight":2.828427
+ce "17"  "ui.hide":true
+ae "18" "7"  "4"
+ce "18"  "weight":2.000000
+ce "18"  "ui.hide":true
+ae "19" "7"  "5"
+ce "19"  "weight":2.828427
+ce "19"  "ui.hide":true
+ae "20" "7"  "6"
+ce "20"  "weight":3.605551
+ce "20"  "ui.hide":true
+ae "21" "8"  "1"
+ce "21"  "weight":7.211103
+ce "21"  "ui.hide":true
+ae "22" "8"  "2"
+ce "22"  "weight":5.656854
+ce "22"  "ui.hide":true
+ae "23" "8"  "3"
+ce "23"  "weight":5.385165
+ce "23"  "ui.hide":true
+ae "24" "8"  "4"
+ce "24"  "weight":3.605551
+ce "24"  "ui.hide":true
+ae "25" "8"  "5"
+ce "25"  "weight":2.236068
+ce "25"  "ui.hide":true
+ae "26" "8"  "6"
+ce "26"  "weight":2.000000
+ce "26"  "ui.hide":true
+ae "27" "8"  "7"
+ce "27"  "weight":3.000000
+ce "27"  "ui.hide":true
+ae "28" "9"  "1"
+ce "28"  "weight":7.810250
+ce "28"  "ui.hide":true
+ae "29" "9"  "2"
+ce "29"  "weight":6.708204
+ce "29"  "ui.hide":true
+ae "30" "9"  "3"
+ce "30"  "weight":5.656854
+ce "30"  "ui.hide":true
+ae "31" "9"  "4"
+ce "31"  "weight":4.472136
+ce "31"  "ui.hide":true
+ae "32" "9"  "5"
+ce "32"  "weight":4.000000
+ce "32"  "ui.hide":true
+ae "33" "9"  "6"
+ce "33"  "weight":4.123106
+ce "33"  "ui.hide":true
+ae "34" "9"  "7"
+ce "34"  "weight":2.828427
+ce "34"  "ui.hide":true
+ae "35" "9"  "8"
+ce "35"  "weight":2.236068
+ce "35"  "ui.hide":true
